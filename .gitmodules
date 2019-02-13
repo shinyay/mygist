@@ -1,0 +1,3 @@
+[submodule "tmux"]
+	path = tmux
+	url = https://gist.github.com/shinyay/627c54e211edf80475ef2cee7ac13796
